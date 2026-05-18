@@ -4,7 +4,7 @@ A professional MERN TypeScript lead management dashboard built for the ServiceHi
 
 The frontend uses Next.js with React, TypeScript, and TailwindCSS. The backend uses Node.js, Express, TypeScript, MongoDB, and Mongoose.
 
-## Features
+## Feature Overview
 
 - JWT authentication with bcrypt password hashing
 - User registration, login, and protected routes
@@ -195,10 +195,10 @@ After deployment, run the seed command against the hosted database by setting th
 
 ## Live Submission Links
 
-- GitHub Repository: `<add-github-repository-url>`
-- Frontend Live App: `<add-frontend-live-url>`
-- Backend Live API: `<add-backend-live-api-url>`
-- Loom Demo: `<add-loom-recording-url>`
+- GitHub Repository: `https://github.com/17dhruv/smart-leads-dashboard`
+- Frontend Live App: To be added after deployment
+- Backend Live API: To be added after deployment
+- Loom Demo: To be added after recording
 
 ## Scripts
 
