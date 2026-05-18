@@ -1,0 +1,23 @@
+{
+  "name": "smart-leads-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack MERN TypeScript lead management dashboard for the ServiceHive internship assignment.",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "npm run dev --prefix server",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server",
+    "build": "npm run build --prefix server && npm run build --prefix client",
+    "typecheck": "npm run typecheck --prefix server && npm run typecheck --prefix client"
+  },
+  "keywords": [
+    "mern",
+    "typescript",
+    "leads",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT"
+}
