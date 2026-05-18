@@ -196,8 +196,8 @@ After deployment, run the seed command against the hosted database by setting th
 ## Live Submission Links
 
 - GitHub Repository: `https://github.com/17dhruv/smart-leads-dashboard`
-- Frontend Live App: To be added after deployment
-- Backend Live API: To be added after deployment
+- Frontend Live App: `https://smart-leads-dashboard-kappa.vercel.app`
+- Backend Live API: `https://smart-leads-dashboard-yzap.onrender.com/api`
 - Loom Demo: To be added after recording
 
 ## Scripts

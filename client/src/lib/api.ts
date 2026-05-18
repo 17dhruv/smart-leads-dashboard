@@ -1,6 +1,6 @@
 import type { ApiErrorResponse, ApiResponse, PaginatedApiResponse } from "../types/api";
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:5000/api";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? "https://smart-leads-dashboard-yzap.onrender.com/api";
 const TOKEN_KEY = "smart-leads-token";
 
 export class ApiClientError extends Error {
